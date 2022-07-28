@@ -50,6 +50,11 @@ namespace ModuloAutenticatorio.Desktop
 
         }
 
-        
+        private void textBox3_Leave(object sender, EventArgs e)
+        {
+            txtLogin.Text = "O leave foi acionado";
+            txtLogin.BackColor = Color.BlueViolet;
+            
+        }
     }
 }
