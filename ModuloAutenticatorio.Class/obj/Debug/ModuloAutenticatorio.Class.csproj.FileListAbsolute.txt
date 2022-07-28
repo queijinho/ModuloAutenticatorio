@@ -1,0 +1,6 @@
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Class\bin\Debug\ModuloAutenticatorio.Class.dll
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Class\bin\Debug\ModuloAutenticatorio.Class.pdb
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Class\obj\Debug\ModuloAutenticatorio.Class.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Class\obj\Debug\ModuloAutenticatorio.Class.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Class\obj\Debug\ModuloAutenticatorio.Class.dll
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Class\obj\Debug\ModuloAutenticatorio.Class.pdb

@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bin\Debug\ModuloAutenticatorio.Desktop.exe.config
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bin\Debug\ModuloAutenticatorio.Desktop.exe
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bin\Debug\ModuloAutenticatorio.Desktop.pdb
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.exe
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.pdb
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.TelaAutenticacao.resources
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bin\Debug\ModuloAutenticatorio.Class.dll
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bin\Debug\ModuloAutenticatorio.Class.pdb
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.TelaCadUsuario.resources
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.csproj.CopyComplete
