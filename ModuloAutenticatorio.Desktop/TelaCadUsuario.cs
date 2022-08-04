@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ModuloAutenticacao.Desktop;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -54,7 +55,45 @@ namespace ModuloAutenticatorio.Desktop
         {
             txtLogin.Text = "O leave foi acionado";
             txtLogin.BackColor = Color.BlueViolet;
+
+            txtLogin.Text = txtNome.Text;
+            txtLogin.BackColor = Color.White;
             
+            //Clever
+            string[] nome = txtNome.Text.Split(' ');
+            //txtLogin.Text = nome[0];
+            //Yedo
+            string substring = "";
+            string[] subs = txtSobrenome.Text.Split();
+            foreach (string sub in subs)
+            {
+                //  MessageBox.Show($"Substring: {sub}");
+                substring = sub;
+            }
+            //===================
+            txtLogin.Text = $"{nome[0].ToLower()}.{substring.ToLower()}";
+                        
+        }
+
+        private void txtSenhaUsuario1_Leave(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void labelConfirmarSenha_Leave(object sender, EventArgs e)
+        {
+            string senhaUsuarioa1 = txtSenhaUsuario1.Text, senhaUsuario2 = txtConfirmarSenhaUsuario.Text;
+            if (senhaUsuarioa1 != senhaUsuario2)
+            {
+                MessageBox.Show("Senhas diferentes");
+                labelSenha.Focus();
+            }
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            new TelaNivel().Show();
         }
     }
 }

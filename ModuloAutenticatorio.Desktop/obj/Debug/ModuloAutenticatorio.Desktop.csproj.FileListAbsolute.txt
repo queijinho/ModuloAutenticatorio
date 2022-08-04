@@ -13,3 +13,4 @@ C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bi
 C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\bin\Debug\ModuloAutenticatorio.Class.pdb
 C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.TelaCadUsuario.resources
 C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticatorio.Desktop.csproj.CopyComplete
+C:\Users\Aluno\source\repos\ModuloAutenticatorio\ModuloAutenticatorio.Desktop\obj\Debug\ModuloAutenticacao.Desktop.TelaNivel.resources
